@@ -28,25 +28,6 @@ require_once('../include/navbar.php');
             <footer class="blockquote-footer">Florencia Lema.</footer>
         </blockquote>
     </div>
-    <br>
-    <div class="row">
-    <div class="col-sm-6 p-1">
-        <div class="card">
-        <div class="card-body">
-            <h5 class="card-title"><i class="far fa-moon"></i> Misión</h5>
-            <p class="card-text">Transmitir la sabiduría alquímica ancestral de la Naturaleza a partir del uso cotidiano y conciente de elaborados naturales.</p>
-        </div>
-        </div>
-    </div>
-    <div class="col-sm-6 p-1">
-        <div class="card">
-        <div class="card-body">
-            <h5 class="card-title"><i class="far fa-sun"></i> Visión</h5>
-            <p class="card-text">Promover una conciencia colectiva sustentable para un futuro sostenible.</p>
-        </div>
-        </div>
-    </div>
-    </div>
 </div>
 <br>
 <?php
