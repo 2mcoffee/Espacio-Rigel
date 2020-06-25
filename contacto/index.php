@@ -88,6 +88,7 @@ require_once('../include/navbar.php');
         </div>
     </div>
 </div>
+<br>
 <?php
 require_once('../include/footer.php');
 ?>
