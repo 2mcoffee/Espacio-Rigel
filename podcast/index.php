@@ -18,19 +18,19 @@ require_once('../include/navbar.php');
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/4hrpWOzh2xOLRkrsRwHzyc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/01.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/5KEAodtuAMn6wFtDcXTXs8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/02.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/75nid5fieswakIbFuC01N8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/03.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
     </div>
@@ -38,19 +38,19 @@ require_once('../include/navbar.php');
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/1wIF7hCAxSGxairw03zNZa" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/04.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/1rDrMGI0o1iTHf5kLrxemw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/05.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/0a4QMzwH3pkrjbmv3iU2on" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/06.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
     </div>
@@ -58,7 +58,13 @@ require_once('../include/navbar.php');
         <div class="col-sm-4">
             <iframe src="https://open.spotify.com/embed-podcast/episode/37xgwGqgXWBU4spsKNotPX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <br>
-            <a class="btn btn-outline-dark btn-sm" href="#" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/07.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
+            <div class="p-2"></div>
+        </div>
+        <div class="col-sm-4">
+            <iframe src="https://open.spotify.com/embed-podcast/episode/2SEq4faRwj4LKOYN5S7Zyg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            <br>
+            <a class="btn btn-outline-dark btn-sm" href="../descargas/08.pdf" target="_blank"><i class="far fa-file-pdf"></i> Descargar</a>
             <div class="p-2"></div>
         </div>
     </div>
