@@ -19,7 +19,7 @@
                 <a class="nav-link" href="../servicios"><i class="fas fa-tags"></i> Servicios</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Tienda</a>
+                <a class="nav-link" href="../tienda"><i class="fas fa-shopping-cart"></i> Tienda</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="../contacto"><i class="fas fa-envelope"></i> Contacto</a>
